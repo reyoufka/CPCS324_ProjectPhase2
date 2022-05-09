@@ -1,0 +1,6 @@
+digraph 1
+A C -2
+B A 4
+B C 3
+C D 2
+D B -1
